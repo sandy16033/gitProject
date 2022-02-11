@@ -1,3 +1,2 @@
 const a = 50;
-const b= 60;
-
+const myfunct = () => {};
